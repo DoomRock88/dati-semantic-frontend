@@ -31,6 +31,7 @@
         "identity-obj-proxy": "3.0.0",
         "jquery": "^3.6.0",
         "mini-css-extract-plugin": "1.6.2",
+        "loader-utils": "1.4.2",
         "mkdirp": "^1.0.4",
         "node-fetch": "^3.2.10",
         "optimize-css-assets-webpack-plugin": "6.0.1",
